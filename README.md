@@ -1,6 +1,20 @@
-🟢 Ping – Next-Generation Real-Time Chat Platform
+<h1 align="center">
+  <br>
+  🟢
+  <b style="font-size:60px;">PING</b>
+  <br>
+</h1>
 
-Ping is a cutting-edge chat application combining WhatsApp, Snapchat, and Reddit features: real-time messaging, disappearing messages, anonymous threads, and future-ready AI integration.
+<h3 align="center">
+  ⚡ Next-Generation Real-Time Chat Platform ⚡
+</h3>
+
+<p align="center">
+  <i>Blending the best of WhatsApp, Snapchat, and Reddit — Real-time messaging, disappearing chats, anonymous threads, and AI-ready integration.</i>
+</p>
+
+---
+
 
 🌟 Key Features
 Features
