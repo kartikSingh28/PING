@@ -16,9 +16,11 @@ out/
 .env
 .env.local
 .env.*.local
+ping-backend/.env
+ping-frontend/.env
 
 # Logs
-logs
+logs/
 *.log
 *.log.*
 log-*
