@@ -1,10 +1,6 @@
 const mongoose=require("mongoose");
 
-mongoose.connect("",{
-    useNewUrlParser:true,
-    useUnifiedTopology:true,
-});
-
+console.log("connected to");
 const Schema=mongoose.Schema;
 
 const ObjectId=Schema.Types.ObjectId;
