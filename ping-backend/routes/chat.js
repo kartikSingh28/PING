@@ -2,7 +2,7 @@ const { Router } = require("express");
 
 const chatRouter = Router();
 
-// Create a new chat (DM or group)
+// Create a new chat (DM or group)<
 chatRouter.post("/chats", (req, res) => {
     res.json({
         message: "Create a new chat (DM or Group)"
